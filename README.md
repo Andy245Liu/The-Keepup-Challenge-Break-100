@@ -1,1 +1,3 @@
 # The-Keepup-Challenge-Break-100
+
+This is a Football (Soccer) keepup game. The objectve is to hit at least 100 keepups (or get as many as you can). The game begins with a ball that drops from the sky. You must use your mouse to click on the bottom of the ball to kick it back up. Your mouse acts a foot which kicks the ball. Thus, the direction in which the ball bounces depends on where you click the ball (e.g., if you click the ball at its bottom, it will bounce up, but if you click the ball above its middle equator, it will bouce down towards the ground). Once the ball hits the ground, the game is considered over. 
